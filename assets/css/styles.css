@@ -8,8 +8,9 @@
 --charcoal-blue: #465362ff;
 }
 
-html {
-background-color: var(--prussian-blue);  
+html,body {
+height: 100%;
+  background-color: var(--prussian-blue);  
 }
 h1 {
   color: var(--royal-gold);
