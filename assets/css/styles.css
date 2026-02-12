@@ -1,2 +1,16 @@
 /* styles.css */
+:root {
+  /* CSS HEX */
+--watermelon: #ed254eff;
+--royal-gold: #f9dc5cff;
+--tea-green: #c2eabdff;
+--prussian-blue: #011936ff;
+--charcoal-blue: #465362ff;
+}
 
+html {
+background-color: var(--lavender);  
+}
+h1 {
+  color: var(--deep-teal);
+}
