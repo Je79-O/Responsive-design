@@ -8,7 +8,7 @@
 --charcoal-blue: #465362ff;
 }
 
-html,body {
+html, body {
 height: 100%;
   background-color: var(--prussian-blue);  
 }
