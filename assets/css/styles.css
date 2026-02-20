@@ -12,6 +12,6 @@ html, body {
 height: 100%;
   background-color: var(--prussian-blue);  
 }
-h1 {
+h1, h2, h3, p {
   color: var(--royal-gold);
 }
